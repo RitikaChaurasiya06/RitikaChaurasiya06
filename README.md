@@ -1,147 +1,150 @@
-[<div align="center" style="position: relative; text-align: center;">
+[header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+<h1 align="center">
+<p align="left">
+  <a href="https://github.com/Ananya01Agrawal/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Ananya!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+</p>
+<h3 align="center"> A Tech- Enthusiast </h3>
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF4Tz9YENuXBg/profile-displaybackgroundimage-shrink_200_800/B56Zgn_csxH0AY-/0/1753017601616?e=1761177600&v=beta&t=f__pYxagoRCsfiJaszqluEWHEIfBTcCc0-OAa14vqAQ" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
-
-<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
-</h1>
-</div>
-<hr>
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)
-![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
-![Reddish](https://img.shields.io/badge/-Reddish-ff4757?style=flat-square&logoColor=white)
-
-<!-- New Badges -->
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya01agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ananya01agrawal" /> </p>
+<b><p align="center">
 
 
----
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari2357&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amantiwari2357&theme=radical" />
----
 
-<hr>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/amantiwari2357/awesome-github-profile-readme" alt="Stars Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/amantiwari2357/awesome-github-profile-readme" alt="Forks Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/amantiwari2357/awesome-github-profile-readme" alt="Pull Requests Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/amantiwari2357/awesome-github-profile-readme" alt="Issues Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/graphs/contributors">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/amantiwari2357/awesome-github-profile-readme?color=2b9348">
-</a>
-
-<!-- New badges -->
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/commits/main">
-  <img src="https://img.shields.io/github/last-commit/amantiwari2357/awesome-github-profile-readme" alt="Last Commit Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/repo-size/amantiwari2357/awesome-github-profile-readme" alt="Repo Size Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme/releases">
-  <img src="https://img.shields.io/github/v/release/amantiwari2357/awesome-github-profile-readme" alt="Latest Release Badge"/>
-</a>
-<!-- 3 more new badges -->
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/count/amantiwari2357/awesome-github-profile-readme" alt="Languages Count Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/top/amantiwari2357/awesome-github-profile-readme" alt="Top Language Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/watchers/amantiwari2357/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
-</a>
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/commit-activity/m/amantiwari2357/awesome-github-profile-readme" alt="Commit Activity Badge"/>
-</a>
-
-<a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/issues-closed-raw/amantiwari2357/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
-</a>
-<hr>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amantiwari2357&theme=radical" width="815" />
-
-<hr>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amantiwari2357&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amantiwari2357&theme=radical&utcOffset=5" />
-
-<hr>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amantiwari2357&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari2357&layout=compact&theme=radical&card_width=480)
-
-  <hr>
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=amantiwari2357&theme=radical&row=1&column=7)](https://github.com/amantiwari2357)
- 
-<hr>
-
-  <div align="center">
-
+Productivity Stats📈:
 <table>
   <tr>
-    <td align="left" style="background-color⚫; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
-      <strong style="color:white;">Graduation</strong><br><br>
-      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0d1117?style=flat-square&logoColor=white&color=blue"><br>
-      <img src="https://img.shields.io/badge/University-AKTU LUCKNOW-0d1117?style=flat-square&color=grey"><br>
-      <img src="https://img.shields.io/badge/Year-2021_–_2025-0d1117?style=flat-square&color=green">
-    </td>
-    <td width="50"></td>
-    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
-      <strong style="color:white;">High School</strong><br><br>
-      <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
-      <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
-      <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
-    </td>
-  </tr>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya01Agrawal&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+   </tr> 
 </table>
+<!--
+<a href="https://github.com/Ananya01Agrawal/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ananya01Agrawal&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>-->
+</p>
 
-</div>
 
-<hr>
 
-## 🌐 Online Presence
 
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
-- 💻 [**GitHub**](https://github.com/amantiwari2357)  
-- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
+<!--
+<h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me  </h2>
+<a href="https://github.com/Ananya01Agrawal"><img src="https://img.shields.io/badge/-Ananya01Agrawl-black?logo=github&style=flat-square"/></a>
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ananya.agrawal_cs21@gla.ac.in)](mailto:ananya.agrawal_cs21@gla.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-agrawal-9727b2230/)](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Ananya Agrawal#2493)
+</p>-->
 
-<hr>
-](https://github.com/RitikaChaurasiya06/RitikaChaurasiya06.git)
+## 💻 Tech Stack:
+<div align="center">
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+
+
+  ![][java] ![][python] <br>
+ ![][html] ![][css] ![][javascript] <br>
+ ![][mysql]  ![][gcp]  ![][kubernetes] <br>
+![][git] ![][github] ![][markdown]<br>
+</div><br>
+
+## 📝 IDE Used:
+![][vscode] ![][pycharm] ![][intelij]  <br><br>
+
+### Learning Sources
+
+<hr/>
+
+<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+
+<br><br><br><br>
+<!--
+
+<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<p  align="center">
+
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+  </p>
+  
+<p  align="center">
+
+### Learning Sources
+
+<hr/>
+
+<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+
+<br><br><br><br>
+
+<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
+  &nbsp;
+<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
+  </p>
+  
+  <p  align="center">
+
+  
+<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
+  
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
+ </p>
+ 
+ <p  align="center">
+
+  
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananya01Agrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ananya01Agrawal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya01Agrawal&theme=tokyonight" />
+</p>
+
+
+
+
+<!----------------------------------{ language badges }--------------------------------->
+
+[c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
+[c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
+[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart
+[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
+[markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[heroku]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku
+[gcp]: https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
+[firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3
+[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5
+[shell]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
+[typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript
+[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+
+[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[arch]: https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white
+[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
