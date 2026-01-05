@@ -1,4 +1,4 @@
-<div align="center" style="position: relative; text-align: center;">
+[<div align="center" style="position: relative; text-align: center;">
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQF4Tz9YENuXBg/profile-displaybackgroundimage-shrink_200_800/B56Zgn_csxH0AY-/0/1753017601616?e=1761177600&v=beta&t=f__pYxagoRCsfiJaszqluEWHEIfBTcCc0-OAa14vqAQ" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
@@ -144,3 +144,4 @@
 - 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
 <hr>
+](https://github.com/RitikaChaurasiya06/RitikaChaurasiya06.git)
